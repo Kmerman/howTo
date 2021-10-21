@@ -1,0 +1,48 @@
+
+*{
+  background-color: #ed8a63;
+}
+
+h1 {
+font-size: 2.5rem;
+color: #3a4660;
+font-weight: 600;
+text-align: center;
+}
+
+h2 {
+font-size: 2rem;
+color: #845007;
+}
+
+h3 {
+font-size: 1.5rem;
+color: #3a4660;
+}
+
+h4{
+  text-align:center;
+}
+
+a {
+background-color: #3a4660;
+color: #ffffff;
+text-decoration: none;
+padding: 8px;
+}
+nav{
+  text-align:center;
+}
+
+p{font-family: 'Oswald', sans-serif;
+text-align:center;
+}
+
+ul{
+  font-family: 'Oswald', sans-serif;
+}
+
+#Camera-Image{
+  text-align:center;
+
+}
